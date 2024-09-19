@@ -1,10 +1,10 @@
 <template>
   <div class="nav-bar">
     <v-btn
-      v-tooltip:start="'GitHub'"
+      v-tooltip:start="'看随机小姐姐扭扭扭'"
       density="compact"
       variant="text"
-      icon="mdi-github"
+      icon="mdi-face-woman-shimmer"
       :size="32"
       @click="gotoGitHub"
     />
@@ -13,7 +13,7 @@
 
 <script setup lang="ts">
 const gotoGitHub = () => {
-  window.open('https://github.com/Tsuk1ko/cf-url-shortener', '_blank');
+  window.open('https://www.qdqqd.com/xjj/index.html', '_blank');
 };
 </script>
 
