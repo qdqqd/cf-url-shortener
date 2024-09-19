@@ -7,11 +7,11 @@
         <ShortenerInput />
       </v-container>
     </v-main>
+    
     <v-footer class="justify-center align-center text-no-wrap" app>
-      Made with ❤️ by
-      <a class="text-decoration-none text-pink-accent-2 ml-1" href="https://github.com/Tsuk1ko" target="_blank"
-        >神代綺凛</a
-      >
+      
+      <a class="text-decoration-none text-pink-accent-2 ml-1" href="https://www.qdqqd.com/" target="_blank">柯艺云</a>
+
     </v-footer>
   </v-app>
 </template>
