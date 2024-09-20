@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-main>
+    <v-main style="background: linear-gradient(to right, pink, lightblue);">
       <NavBar />
       <v-container class="d-flex flex-column justify-center align-center">
         <div class="text-h3 text-sm-h2 font-weight-light mb-12" :style="{ userSelect: 'none' }">{{ title }}</div>
@@ -8,7 +8,7 @@
       </v-container>
     </v-main>
     
-    <v-footer class="justify-center align-center text-no-wrap" app>
+    <v-footer style="background: linear-gradient(to right, pink, lightblue);" class="justify-center align-center text-no-wrap" app>
       
       <a class="text-decoration-none text-pink-accent-2 ml-1" href="https://www.qdqqd.com/" target="_blank">柯艺云</a>
 
