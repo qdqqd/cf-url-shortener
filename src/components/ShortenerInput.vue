@@ -23,7 +23,7 @@
           rounded
           variant="flat"
           @click="shortenUrl"
-          >shorten</v-btn
+          >缩短</v-btn
         >
       </template>
     </v-text-field>
